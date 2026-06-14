@@ -1,0 +1,4 @@
+INFO: Server started
+ERROR: Disk full
+INFO: Backup completed
+ERROR: Memory issue
