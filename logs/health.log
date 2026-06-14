@@ -1,0 +1,711 @@
+=================================
+     SYSTEM HEALTH REPORT
+=================================
+
+DATE:
+Sun Jun 14 11:06:23 UTC 2026
+
+CURRENT USER:
+purush
+
+SYSTEM UPTIME:
+ 11:06:23 up 39 min,  1 user,  load average: 0.00, 0.00, 0.00
+
+MEMORY USAGE:
+               total        used        free      shared  buff/cache   available
+Mem:            7754         532        7151           3         235        7221
+Swap:           2048           0        2048
+
+DISK USAGE:
+Filesystem      Size  Used Avail Use% Mounted on
+none            3.8G     0  3.8G   0% /usr/lib/modules/6.6.87.2-microsoft-standard-WSL2
+none            3.8G  4.0K  3.8G   1% /mnt/wsl
+drivers         476G  202G  274G  43% /usr/lib/wsl/drivers
+/dev/sdd       1007G  6.4G  950G   1% /
+none            3.8G   84K  3.8G   1% /mnt/wslg
+none            3.8G     0  3.8G   0% /usr/lib/wsl/lib
+rootfs          3.8G  2.7M  3.8G   1% /init
+none            3.8G  544K  3.8G   1% /run
+none            3.8G     0  3.8G   0% /run/lock
+none            3.8G     0  3.8G   0% /run/shm
+none            3.8G   76K  3.8G   1% /mnt/wslg/versions.txt
+none            3.8G   76K  3.8G   1% /mnt/wslg/doc
+C:\             476G  202G  274G  43% /mnt/c
+tmpfs           776M   20K  776M   1% /run/user/1000
+
+CPU LOAD:
+top - 11:06:23 up 39 min,  1 user,  load average: 0.00, 0.00, 0.00
+
+TOTAL RUNNING PROCESSES:
+30
+
+=================================
+       REPORT COMPLETED
+=================================
+[32mSYSTEM HEALTH REPORT[0m#!/bin/bash
+=================================
+     SYSTEM HEALTH REPORT
+=================================
+
+DATE:
+Sun Jun 14 11:45:49 UTC 2026
+
+CURRENT USER:
+purush
+
+SYSTEM UPTIME:
+ 11:45:49 up  1:19,  1 user,  load average: 0.00, 0.00, 0.00
+
+MEMORY USAGE:
+               total        used        free      shared  buff/cache   available
+Mem:            7754         532        7104           3         284        7222
+Swap:           2048           0        2048
+
+DISK USAGE:
+Filesystem      Size  Used Avail Use% Mounted on
+none            3.8G     0  3.8G   0% /usr/lib/modules/6.6.87.2-microsoft-standard-WSL2
+none            3.8G  4.0K  3.8G   1% /mnt/wsl
+drivers         476G  202G  274G  43% /usr/lib/wsl/drivers
+/dev/sdd       1007G  6.4G  950G   1% /
+none            3.8G   88K  3.8G   1% /mnt/wslg
+none            3.8G     0  3.8G   0% /usr/lib/wsl/lib
+rootfs          3.8G  2.7M  3.8G   1% /init
+none            3.8G  540K  3.8G   1% /run
+none            3.8G     0  3.8G   0% /run/lock
+none            3.8G     0  3.8G   0% /run/shm
+none            3.8G   76K  3.8G   1% /mnt/wslg/versions.txt
+none            3.8G   76K  3.8G   1% /mnt/wslg/doc
+C:\             476G  202G  274G  43% /mnt/c
+tmpfs           776M   20K  776M   1% /run/user/1000
+
+CPU LOAD:
+top - 11:45:49 up  1:19,  1 user,  load average: 0.00, 0.00, 0.00
+
+TOTAL RUNNING PROCESSES:
+29
+
+=================================
+       REPORT COMPLETED
+=================================
+-e [32mSYSTEM HEALTH REPORT[0m#!/bin/bash
+=================================
+     SYSTEM HEALTH REPORT
+=================================
+
+DATE:
+Sun Jun 14 11:46:01 UTC 2026
+
+CURRENT USER:
+purush
+
+SYSTEM UPTIME:
+ 11:46:01 up  1:19,  1 user,  load average: 0.00, 0.00, 0.00
+
+MEMORY USAGE:
+               total        used        free      shared  buff/cache   available
+Mem:            7754         532        7103           3         284        7221
+Swap:           2048           0        2048
+
+DISK USAGE:
+Filesystem      Size  Used Avail Use% Mounted on
+none            3.8G     0  3.8G   0% /usr/lib/modules/6.6.87.2-microsoft-standard-WSL2
+none            3.8G  4.0K  3.8G   1% /mnt/wsl
+drivers         476G  202G  274G  43% /usr/lib/wsl/drivers
+/dev/sdd       1007G  6.4G  950G   1% /
+none            3.8G   88K  3.8G   1% /mnt/wslg
+none            3.8G     0  3.8G   0% /usr/lib/wsl/lib
+rootfs          3.8G  2.7M  3.8G   1% /init
+none            3.8G  540K  3.8G   1% /run
+none            3.8G     0  3.8G   0% /run/lock
+none            3.8G     0  3.8G   0% /run/shm
+none            3.8G   76K  3.8G   1% /mnt/wslg/versions.txt
+none            3.8G   76K  3.8G   1% /mnt/wslg/doc
+C:\             476G  202G  274G  43% /mnt/c
+tmpfs           776M   20K  776M   1% /run/user/1000
+
+CPU LOAD:
+top - 11:46:01 up  1:19,  1 user,  load average: 0.00, 0.00, 0.00
+
+TOTAL RUNNING PROCESSES:
+31
+
+=================================
+       REPORT COMPLETED
+=================================
+-e [32mSYSTEM HEALTH REPORT[0m#!/bin/bash
+=================================
+     SYSTEM HEALTH REPORT
+=================================
+
+DATE:
+Sun Jun 14 11:47:01 UTC 2026
+
+CURRENT USER:
+purush
+
+SYSTEM UPTIME:
+ 11:47:01 up  1:20,  1 user,  load average: 0.00, 0.00, 0.00
+
+MEMORY USAGE:
+               total        used        free      shared  buff/cache   available
+Mem:            7754         532        7103           3         284        7221
+Swap:           2048           0        2048
+
+DISK USAGE:
+Filesystem      Size  Used Avail Use% Mounted on
+none            3.8G     0  3.8G   0% /usr/lib/modules/6.6.87.2-microsoft-standard-WSL2
+none            3.8G  4.0K  3.8G   1% /mnt/wsl
+drivers         476G  202G  274G  43% /usr/lib/wsl/drivers
+/dev/sdd       1007G  6.4G  950G   1% /
+none            3.8G   88K  3.8G   1% /mnt/wslg
+none            3.8G     0  3.8G   0% /usr/lib/wsl/lib
+rootfs          3.8G  2.7M  3.8G   1% /init
+none            3.8G  540K  3.8G   1% /run
+none            3.8G     0  3.8G   0% /run/lock
+none            3.8G     0  3.8G   0% /run/shm
+none            3.8G   76K  3.8G   1% /mnt/wslg/versions.txt
+none            3.8G   76K  3.8G   1% /mnt/wslg/doc
+C:\             476G  202G  274G  43% /mnt/c
+tmpfs           776M   20K  776M   1% /run/user/1000
+
+CPU LOAD:
+top - 11:47:01 up  1:20,  1 user,  load average: 0.00, 0.00, 0.00
+
+TOTAL RUNNING PROCESSES:
+32
+
+=================================
+       REPORT COMPLETED
+=================================
+-e [32mSYSTEM HEALTH REPORT[0m#!/bin/bash
+=================================
+     SYSTEM HEALTH REPORT
+=================================
+
+DATE:
+Sun Jun 14 11:48:01 UTC 2026
+
+CURRENT USER:
+purush
+
+SYSTEM UPTIME:
+ 11:48:01 up  1:21,  1 user,  load average: 0.00, 0.00, 0.00
+
+MEMORY USAGE:
+               total        used        free      shared  buff/cache   available
+Mem:            7754         531        7105           3         284        7222
+Swap:           2048           0        2048
+
+DISK USAGE:
+Filesystem      Size  Used Avail Use% Mounted on
+none            3.8G     0  3.8G   0% /usr/lib/modules/6.6.87.2-microsoft-standard-WSL2
+none            3.8G  4.0K  3.8G   1% /mnt/wsl
+drivers         476G  202G  274G  43% /usr/lib/wsl/drivers
+/dev/sdd       1007G  6.4G  950G   1% /
+none            3.8G   88K  3.8G   1% /mnt/wslg
+none            3.8G     0  3.8G   0% /usr/lib/wsl/lib
+rootfs          3.8G  2.7M  3.8G   1% /init
+none            3.8G  540K  3.8G   1% /run
+none            3.8G     0  3.8G   0% /run/lock
+none            3.8G     0  3.8G   0% /run/shm
+none            3.8G   76K  3.8G   1% /mnt/wslg/versions.txt
+none            3.8G   76K  3.8G   1% /mnt/wslg/doc
+C:\             476G  202G  274G  43% /mnt/c
+tmpfs           776M   20K  776M   1% /run/user/1000
+
+CPU LOAD:
+top - 11:48:02 up  1:21,  1 user,  load average: 0.00, 0.00, 0.00
+
+TOTAL RUNNING PROCESSES:
+31
+
+=================================
+       REPORT COMPLETED
+=================================
+-e [32mSYSTEM HEALTH REPORT[0m#!/bin/bash
+=================================
+     SYSTEM HEALTH REPORT
+=================================
+
+DATE:
+Sun Jun 14 11:49:01 UTC 2026
+
+CURRENT USER:
+purush
+
+SYSTEM UPTIME:
+ 11:49:01 up  1:22,  1 user,  load average: 0.00, 0.00, 0.00
+
+MEMORY USAGE:
+               total        used        free      shared  buff/cache   available
+Mem:            7754         532        7104           3         284        7221
+Swap:           2048           0        2048
+
+DISK USAGE:
+Filesystem      Size  Used Avail Use% Mounted on
+none            3.8G     0  3.8G   0% /usr/lib/modules/6.6.87.2-microsoft-standard-WSL2
+none            3.8G  4.0K  3.8G   1% /mnt/wsl
+drivers         476G  202G  274G  43% /usr/lib/wsl/drivers
+/dev/sdd       1007G  6.4G  950G   1% /
+none            3.8G   88K  3.8G   1% /mnt/wslg
+none            3.8G     0  3.8G   0% /usr/lib/wsl/lib
+rootfs          3.8G  2.7M  3.8G   1% /init
+none            3.8G  540K  3.8G   1% /run
+none            3.8G     0  3.8G   0% /run/lock
+none            3.8G     0  3.8G   0% /run/shm
+none            3.8G   76K  3.8G   1% /mnt/wslg/versions.txt
+none            3.8G   76K  3.8G   1% /mnt/wslg/doc
+C:\             476G  202G  274G  43% /mnt/c
+tmpfs           776M   20K  776M   1% /run/user/1000
+
+CPU LOAD:
+top - 11:49:01 up  1:22,  1 user,  load average: 0.00, 0.00, 0.00
+
+TOTAL RUNNING PROCESSES:
+32
+
+=================================
+       REPORT COMPLETED
+=================================
+-e [32mSYSTEM HEALTH REPORT[0m#!/bin/bash
+=================================
+     SYSTEM HEALTH REPORT
+=================================
+
+DATE:
+Sun Jun 14 11:50:01 UTC 2026
+
+CURRENT USER:
+purush
+
+SYSTEM UPTIME:
+ 11:50:01 up  1:23,  1 user,  load average: 0.00, 0.00, 0.00
+
+MEMORY USAGE:
+               total        used        free      shared  buff/cache   available
+Mem:            7754         533        7102           3         284        7220
+Swap:           2048           0        2048
+
+DISK USAGE:
+Filesystem      Size  Used Avail Use% Mounted on
+none            3.8G     0  3.8G   0% /usr/lib/modules/6.6.87.2-microsoft-standard-WSL2
+none            3.8G  4.0K  3.8G   1% /mnt/wsl
+drivers         476G  202G  274G  43% /usr/lib/wsl/drivers
+/dev/sdd       1007G  6.4G  950G   1% /
+none            3.8G   88K  3.8G   1% /mnt/wslg
+none            3.8G     0  3.8G   0% /usr/lib/wsl/lib
+rootfs          3.8G  2.7M  3.8G   1% /init
+none            3.8G  540K  3.8G   1% /run
+none            3.8G     0  3.8G   0% /run/lock
+none            3.8G     0  3.8G   0% /run/shm
+none            3.8G   76K  3.8G   1% /mnt/wslg/versions.txt
+none            3.8G   76K  3.8G   1% /mnt/wslg/doc
+C:\             476G  202G  274G  43% /mnt/c
+tmpfs           776M   20K  776M   1% /run/user/1000
+
+CPU LOAD:
+top - 11:50:01 up  1:23,  1 user,  load average: 0.00, 0.00, 0.00
+
+TOTAL RUNNING PROCESSES:
+31
+
+=================================
+       REPORT COMPLETED
+=================================
+-e [32mSYSTEM HEALTH REPORT[0m#!/bin/bash
+=================================
+     SYSTEM HEALTH REPORT
+=================================
+
+DATE:
+Sun Jun 14 11:51:01 UTC 2026
+
+CURRENT USER:
+purush
+
+SYSTEM UPTIME:
+ 11:51:01 up  1:24,  1 user,  load average: 0.00, 0.00, 0.00
+
+MEMORY USAGE:
+               total        used        free      shared  buff/cache   available
+Mem:            7754         533        7102           3         285        7220
+Swap:           2048           0        2048
+
+DISK USAGE:
+Filesystem      Size  Used Avail Use% Mounted on
+none            3.8G     0  3.8G   0% /usr/lib/modules/6.6.87.2-microsoft-standard-WSL2
+none            3.8G  4.0K  3.8G   1% /mnt/wsl
+drivers         476G  202G  274G  43% /usr/lib/wsl/drivers
+/dev/sdd       1007G  6.4G  950G   1% /
+none            3.8G   88K  3.8G   1% /mnt/wslg
+none            3.8G     0  3.8G   0% /usr/lib/wsl/lib
+rootfs          3.8G  2.7M  3.8G   1% /init
+none            3.8G  540K  3.8G   1% /run
+none            3.8G     0  3.8G   0% /run/lock
+none            3.8G     0  3.8G   0% /run/shm
+none            3.8G   76K  3.8G   1% /mnt/wslg/versions.txt
+none            3.8G   76K  3.8G   1% /mnt/wslg/doc
+C:\             476G  202G  274G  43% /mnt/c
+tmpfs           776M   20K  776M   1% /run/user/1000
+
+CPU LOAD:
+top - 11:51:01 up  1:24,  1 user,  load average: 0.00, 0.00, 0.00
+
+TOTAL RUNNING PROCESSES:
+33
+
+=================================
+       REPORT COMPLETED
+=================================
+
+DISK ALERT CHECK
+
+DISK ALERT CHECK
+
+DISK ALERT CHECK
+
+DISK ALERT CHECK
+
+DISK ALERT CHECK
+=================================
+     SYSTEM HEALTH REPORT
+=================================
+
+DATE:
+Sun Jun 14 11:57:01 UTC 2026
+
+CURRENT USER:
+purush
+
+SYSTEM UPTIME:
+ 11:57:01 up  1:30,  1 user,  load average: 0.03, 0.01, 0.00
+
+MEMORY USAGE:
+               total        used        free      shared  buff/cache   available
+Mem:            7754         532        7103           3         285        7221
+Swap:           2048           0        2048
+
+DISK USAGE:
+Filesystem      Size  Used Avail Use% Mounted on
+none            3.8G     0  3.8G   0% /usr/lib/modules/6.6.87.2-microsoft-standard-WSL2
+none            3.8G  4.0K  3.8G   1% /mnt/wsl
+drivers         476G  202G  274G  43% /usr/lib/wsl/drivers
+/dev/sdd       1007G  6.4G  950G   1% /
+none            3.8G   88K  3.8G   1% /mnt/wslg
+none            3.8G     0  3.8G   0% /usr/lib/wsl/lib
+rootfs          3.8G  2.7M  3.8G   1% /init
+none            3.8G  540K  3.8G   1% /run
+none            3.8G     0  3.8G   0% /run/lock
+none            3.8G     0  3.8G   0% /run/shm
+none            3.8G   76K  3.8G   1% /mnt/wslg/versions.txt
+none            3.8G   76K  3.8G   1% /mnt/wslg/doc
+C:\             476G  202G  274G  43% /mnt/c
+tmpfs           776M   20K  776M   1% /run/user/1000
+
+CPU LOAD:
+top - 11:57:01 up  1:30,  1 user,  load average: 0.03, 0.01, 0.00
+
+TOTAL RUNNING PROCESSES:
+32
+
+DISK ALERT CHECK
+Disk usage is normal
+
+=================================
+       REPORT COMPLETED
+=================================
+=================================
+     SYSTEM HEALTH REPORT
+=================================
+
+DATE:
+Sun Jun 14 12:00:01 UTC 2026
+
+CURRENT USER:
+purush
+
+SYSTEM UPTIME:
+ 12:00:01 up  1:33,  1 user,  load average: 0.00, 0.00, 0.00
+
+MEMORY USAGE:
+               total        used        free      shared  buff/cache   available
+Mem:            7754         533        7102           3         285        7220
+Swap:           2048           0        2048
+
+DISK USAGE:
+Filesystem      Size  Used Avail Use% Mounted on
+none            3.8G     0  3.8G   0% /usr/lib/modules/6.6.87.2-microsoft-standard-WSL2
+none            3.8G  4.0K  3.8G   1% /mnt/wsl
+drivers         476G  202G  274G  43% /usr/lib/wsl/drivers
+/dev/sdd       1007G  6.4G  950G   1% /
+none            3.8G   88K  3.8G   1% /mnt/wslg
+none            3.8G     0  3.8G   0% /usr/lib/wsl/lib
+rootfs          3.8G  2.7M  3.8G   1% /init
+none            3.8G  540K  3.8G   1% /run
+none            3.8G     0  3.8G   0% /run/lock
+none            3.8G     0  3.8G   0% /run/shm
+none            3.8G   76K  3.8G   1% /mnt/wslg/versions.txt
+none            3.8G   76K  3.8G   1% /mnt/wslg/doc
+C:\             476G  202G  274G  43% /mnt/c
+tmpfs           776M   20K  776M   1% /run/user/1000
+
+CPU LOAD:
+top - 12:00:01 up  1:33,  1 user,  load average: 0.00, 0.00, 0.00
+
+TOTAL RUNNING PROCESSES:
+32
+
+DISK ALERT CHECK
+Disk usage is normal
+
+=================================
+       REPORT COMPLETED
+=================================
+=================================
+     SYSTEM HEALTH REPORT
+=================================
+
+DATE:
+Sun Jun 14 12:01:01 UTC 2026
+
+MEMORY USAGE:
+               total        used        free      shared  buff/cache   available
+Mem:            7754         535        7100           3         285        7218
+Swap:           2048           0        2048
+
+DISK USAGE:
+Filesystem      Size  Used Avail Use% Mounted on
+none            3.8G     0  3.8G   0% /usr/lib/modules/6.6.87.2-microsoft-standard-WSL2
+none            3.8G  4.0K  3.8G   1% /mnt/wsl
+drivers         476G  202G  274G  43% /usr/lib/wsl/drivers
+/dev/sdd       1007G  6.4G  950G   1% /
+none            3.8G   88K  3.8G   1% /mnt/wslg
+none            3.8G     0  3.8G   0% /usr/lib/wsl/lib
+rootfs          3.8G  2.7M  3.8G   1% /init
+none            3.8G  544K  3.8G   1% /run
+none            3.8G     0  3.8G   0% /run/lock
+none            3.8G     0  3.8G   0% /run/shm
+none            3.8G   76K  3.8G   1% /mnt/wslg/versions.txt
+none            3.8G   76K  3.8G   1% /mnt/wslg/doc
+C:\             476G  202G  274G  43% /mnt/c
+tmpfs           776M   20K  776M   1% /run/user/1000
+
+DISK ALERT CHECK
+Disk usage normal
+=================================
+     SYSTEM HEALTH REPORT
+=================================
+
+DATE:
+Sun Jun 14 12:02:01 UTC 2026
+
+MEMORY USAGE:
+               total        used        free      shared  buff/cache   available
+Mem:            7754         531        7103           3         286        7223
+Swap:           2048           0        2048
+
+DISK USAGE:
+Filesystem      Size  Used Avail Use% Mounted on
+none            3.8G     0  3.8G   0% /usr/lib/modules/6.6.87.2-microsoft-standard-WSL2
+none            3.8G  4.0K  3.8G   1% /mnt/wsl
+drivers         476G  202G  274G  43% /usr/lib/wsl/drivers
+/dev/sdd       1007G  6.4G  950G   1% /
+none            3.8G   88K  3.8G   1% /mnt/wslg
+none            3.8G     0  3.8G   0% /usr/lib/wsl/lib
+rootfs          3.8G  2.7M  3.8G   1% /init
+none            3.8G  544K  3.8G   1% /run
+none            3.8G     0  3.8G   0% /run/lock
+none            3.8G     0  3.8G   0% /run/shm
+none            3.8G   76K  3.8G   1% /mnt/wslg/versions.txt
+none            3.8G   76K  3.8G   1% /mnt/wslg/doc
+C:\             476G  202G  274G  43% /mnt/c
+tmpfs           776M   20K  776M   1% /run/user/1000
+
+DISK ALERT CHECK
+Disk usage normal
+=================================
+     SYSTEM HEALTH REPORT
+=================================
+
+DATE:
+Sun Jun 14 12:03:01 UTC 2026
+
+MEMORY USAGE:
+               total        used        free      shared  buff/cache   available
+Mem:            7754         532        7102           3         286        7221
+Swap:           2048           0        2048
+
+DISK USAGE:
+Filesystem      Size  Used Avail Use% Mounted on
+none            3.8G     0  3.8G   0% /usr/lib/modules/6.6.87.2-microsoft-standard-WSL2
+none            3.8G  4.0K  3.8G   1% /mnt/wsl
+drivers         476G  202G  274G  43% /usr/lib/wsl/drivers
+/dev/sdd       1007G  6.4G  950G   1% /
+none            3.8G   88K  3.8G   1% /mnt/wslg
+none            3.8G     0  3.8G   0% /usr/lib/wsl/lib
+rootfs          3.8G  2.7M  3.8G   1% /init
+none            3.8G  544K  3.8G   1% /run
+none            3.8G     0  3.8G   0% /run/lock
+none            3.8G     0  3.8G   0% /run/shm
+none            3.8G   76K  3.8G   1% /mnt/wslg/versions.txt
+none            3.8G   76K  3.8G   1% /mnt/wslg/doc
+C:\             476G  202G  274G  43% /mnt/c
+tmpfs           776M   20K  776M   1% /run/user/1000
+
+DISK ALERT CHECK
+Disk usage normal
+=================================
+     SYSTEM HEALTH REPORT
+=================================
+
+DATE:
+Sun Jun 14 12:04:01 UTC 2026
+
+MEMORY USAGE:
+               total        used        free      shared  buff/cache   available
+Mem:            7754         532        7082           3         306        7221
+Swap:           2048           0        2048
+
+DISK USAGE:
+Filesystem      Size  Used Avail Use% Mounted on
+none            3.8G     0  3.8G   0% /usr/lib/modules/6.6.87.2-microsoft-standard-WSL2
+none            3.8G  4.0K  3.8G   1% /mnt/wsl
+drivers         476G  202G  274G  43% /usr/lib/wsl/drivers
+/dev/sdd       1007G  6.4G  950G   1% /
+none            3.8G   92K  3.8G   1% /mnt/wslg
+none            3.8G     0  3.8G   0% /usr/lib/wsl/lib
+rootfs          3.8G  2.7M  3.8G   1% /init
+none            3.8G  544K  3.8G   1% /run
+none            3.8G     0  3.8G   0% /run/lock
+none            3.8G     0  3.8G   0% /run/shm
+none            3.8G   76K  3.8G   1% /mnt/wslg/versions.txt
+none            3.8G   76K  3.8G   1% /mnt/wslg/doc
+C:\             476G  202G  274G  43% /mnt/c
+tmpfs           776M   20K  776M   1% /run/user/1000
+
+DISK ALERT CHECK
+Disk usage normal
+=================================
+     SYSTEM HEALTH REPORT
+=================================
+
+DATE:
+Sun Jun 14 12:05:01 UTC 2026
+
+MEMORY USAGE:
+               total        used        free      shared  buff/cache   available
+Mem:            7754         532        7082           3         306        7221
+Swap:           2048           0        2048
+
+DISK USAGE:
+Filesystem      Size  Used Avail Use% Mounted on
+none            3.8G     0  3.8G   0% /usr/lib/modules/6.6.87.2-microsoft-standard-WSL2
+none            3.8G  4.0K  3.8G   1% /mnt/wsl
+drivers         476G  202G  274G  43% /usr/lib/wsl/drivers
+/dev/sdd       1007G  6.4G  950G   1% /
+none            3.8G   92K  3.8G   1% /mnt/wslg
+none            3.8G     0  3.8G   0% /usr/lib/wsl/lib
+rootfs          3.8G  2.7M  3.8G   1% /init
+none            3.8G  544K  3.8G   1% /run
+none            3.8G     0  3.8G   0% /run/lock
+none            3.8G     0  3.8G   0% /run/shm
+none            3.8G   76K  3.8G   1% /mnt/wslg/versions.txt
+none            3.8G   76K  3.8G   1% /mnt/wslg/doc
+C:\             476G  202G  274G  43% /mnt/c
+tmpfs           776M   20K  776M   1% /run/user/1000
+
+DISK ALERT CHECK
+Disk usage normal
+=================================
+     SYSTEM HEALTH REPORT
+=================================
+
+DATE:
+Sun Jun 14 12:06:01 UTC 2026
+
+MEMORY USAGE:
+               total        used        free      shared  buff/cache   available
+Mem:            7754         532        7082           3         306        7221
+Swap:           2048           0        2048
+
+DISK USAGE:
+Filesystem      Size  Used Avail Use% Mounted on
+none            3.8G     0  3.8G   0% /usr/lib/modules/6.6.87.2-microsoft-standard-WSL2
+none            3.8G  4.0K  3.8G   1% /mnt/wsl
+drivers         476G  202G  274G  43% /usr/lib/wsl/drivers
+/dev/sdd       1007G  6.4G  950G   1% /
+none            3.8G   92K  3.8G   1% /mnt/wslg
+none            3.8G     0  3.8G   0% /usr/lib/wsl/lib
+rootfs          3.8G  2.7M  3.8G   1% /init
+none            3.8G  544K  3.8G   1% /run
+none            3.8G     0  3.8G   0% /run/lock
+none            3.8G     0  3.8G   0% /run/shm
+none            3.8G   76K  3.8G   1% /mnt/wslg/versions.txt
+none            3.8G   76K  3.8G   1% /mnt/wslg/doc
+C:\             476G  202G  274G  43% /mnt/c
+tmpfs           776M   20K  776M   1% /run/user/1000
+
+DISK ALERT CHECK
+Disk usage normal
+=================================
+     SYSTEM HEALTH REPORT
+=================================
+
+DATE:
+Sun Jun 14 12:07:01 UTC 2026
+
+MEMORY USAGE:
+               total        used        free      shared  buff/cache   available
+Mem:            7754         534        7078           3         308        7220
+Swap:           2048           0        2048
+
+DISK USAGE:
+Filesystem      Size  Used Avail Use% Mounted on
+none            3.8G     0  3.8G   0% /usr/lib/modules/6.6.87.2-microsoft-standard-WSL2
+none            3.8G  4.0K  3.8G   1% /mnt/wsl
+drivers         476G  202G  274G  43% /usr/lib/wsl/drivers
+/dev/sdd       1007G  6.4G  950G   1% /
+none            3.8G   92K  3.8G   1% /mnt/wslg
+none            3.8G     0  3.8G   0% /usr/lib/wsl/lib
+rootfs          3.8G  2.7M  3.8G   1% /init
+none            3.8G  544K  3.8G   1% /run
+none            3.8G     0  3.8G   0% /run/lock
+none            3.8G     0  3.8G   0% /run/shm
+none            3.8G   76K  3.8G   1% /mnt/wslg/versions.txt
+none            3.8G   76K  3.8G   1% /mnt/wslg/doc
+C:\             476G  202G  274G  43% /mnt/c
+tmpfs           776M   20K  776M   1% /run/user/1000
+
+DISK ALERT CHECK
+Disk usage normal
+=================================
+     SYSTEM HEALTH REPORT
+=================================
+
+DATE:
+Sun Jun 14 12:08:01 UTC 2026
+
+MEMORY USAGE:
+               total        used        free      shared  buff/cache   available
+Mem:            7754         533        7078           3         309        7221
+Swap:           2048           0        2048
+
+DISK USAGE:
+Filesystem      Size  Used Avail Use% Mounted on
+none            3.8G     0  3.8G   0% /usr/lib/modules/6.6.87.2-microsoft-standard-WSL2
+none            3.8G  4.0K  3.8G   1% /mnt/wsl
+drivers         476G  202G  274G  43% /usr/lib/wsl/drivers
+/dev/sdd       1007G  6.4G  950G   1% /
+none            3.8G   92K  3.8G   1% /mnt/wslg
+none            3.8G     0  3.8G   0% /usr/lib/wsl/lib
+rootfs          3.8G  2.7M  3.8G   1% /init
+none            3.8G  544K  3.8G   1% /run
+none            3.8G     0  3.8G   0% /run/lock
+none            3.8G     0  3.8G   0% /run/shm
+none            3.8G   76K  3.8G   1% /mnt/wslg/versions.txt
+none            3.8G   76K  3.8G   1% /mnt/wslg/doc
+C:\             476G  202G  274G  43% /mnt/c
+tmpfs           776M   20K  776M   1% /run/user/1000
+
+DISK ALERT CHECK
+Disk usage normal
